@@ -1,0 +1,1 @@
+# nextjs-static-web-apps-deployment-demo
